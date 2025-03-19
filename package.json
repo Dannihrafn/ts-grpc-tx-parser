@@ -17,5 +17,10 @@
   "devDependencies": {
     "@types/typescript": "^0.4.29",
     "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@triton-one/yellowstone-grpc": "^1.0.0",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7"
   }
 }
